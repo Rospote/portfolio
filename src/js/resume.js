@@ -24,5 +24,11 @@
   $('body').scrollspy({
     target: '#sideNav'
   });
+  
 
 })(jQuery); // End of use strict
+
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
