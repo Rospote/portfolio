@@ -10,8 +10,6 @@ body {
   color: #868e96;
 }
 
-
-
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -176,5 +174,3 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
-
-
